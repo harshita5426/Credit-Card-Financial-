@@ -10,8 +10,6 @@ Import data to SQL database
 
 DAX Queries
 
-Rishabh Mishra 7
-
 AgeGroup = SWITCH(
 TRUE(),
 'public cust_detail'[customer_age] < 30, "20-30",

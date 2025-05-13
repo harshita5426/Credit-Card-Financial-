@@ -46,8 +46,7 @@ ALL('public cc_detail'),
 
 Project Insights- Week 53 (31st Dec)
 WoW change:
-• Revenue increased by 28.8%,
-• Customer count increased by xx%
+• Revenue increased by 28.8%
 Overview YTD:
 • Overall revenue is 57M
 • Total interest is 8M
